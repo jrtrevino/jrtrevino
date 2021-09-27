@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joey Trevino!
-- 👀 I’m interested in Software Development, particularly serverless software!
+- 👀 I’m interested in Software Development, particularly serverless (cloud) software!
 - 🌱 I’m currently learning CS @ Cal Poly, SLO! I Graduate in December 2021.
 
 <!---
